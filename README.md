@@ -2,7 +2,7 @@
 
 Submitted by: **Obaloluwa Wojuade**
 
-**MovieBuster** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**Flixter** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: **8** hours spent in total
 
