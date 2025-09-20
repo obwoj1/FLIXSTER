@@ -30,14 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/and102/6eHxddfz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://drive.google.com/file/d/1ewHi_U-GnozsGM_Lpl-6L0NwPBOmJX3h/view?usp=sharing
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
